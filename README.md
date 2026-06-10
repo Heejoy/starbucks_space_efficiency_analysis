@@ -54,6 +54,8 @@ Based on the data visualized in the **Starbucks Space Efficiency Dashboard**:
 * **High-Turnover "Conversation Zone":** 
   * Position round coffee tables, and seats *without* power outlets near the entrance and windows. 
   * This targets high-RPM groups (Families, Teenagers, Conversationalists) who have shorter stay durations, encouraging faster table turnover.
+* * **Visual Seating Guidance:** 
+* Install clear, friendly floor and table signage at the enterance of each zone to guide customers toward the seating setup most compatible with their intended activity. 
 
 ### 2. Operational Seating Policies
 * **Minimum Occupancy for Large Tables:** 
