@@ -1,7 +1,6 @@
 # ☕️ Starbucks Space Efficiency Analysis & Insight 
 
-![Starbucks Space Efficiency Dashboard](<img width="1277" height="714" alt="dash_board" src="https://github.com/user-attachments/assets/7d85651e-68d7-4981-8f08-997c4833fa7d" />
-)
+![Starbucks Space Efficiency Dashboard](dash_board_png)
 
 ## 📌 Project Overview
 As a current Starbucks Shift Supervisor, I frequently observed a major operational bottleneck: during peak hours, single customers would occupy large group tables for hours, leaving no space for actual groups and causing potential walk-outs. 
@@ -39,7 +38,7 @@ The analysis utilizes `starbucks_customer_data.csv`, which tracks individual cus
 ## 🔍 SQL Data Aggregation & Processing
 The raw data logged in Excel was imported into a database. I then used SQL queries to clean the data and calculate the key retail metrics needed for the Power BI dashboard.
 
-* 📁 **Complete Source Code:** (need to update my sql query)
+* 📁 **Complete Source Code:** ![SQL Scripts](https://github.com/Heejoy/starbucks_space_efficiency_analysis/blob/main/SQL/starbucks_data.sql)
 
 ## 💡 Key Dashboard Insights & Findings
 Based on the data visualized in the **Starbucks Space Efficiency Dashboard**:
