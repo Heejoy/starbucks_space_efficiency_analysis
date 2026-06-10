@@ -1,6 +1,6 @@
 # ☕️ Starbucks Space Efficiency Analysis & Insight 
 
-![Starbucks Space Efficiency Dashboard](dash_board_png)
+![Starbucks Space Efficiency Dashboard](<img width="1277" height="714" alt="Image" src="https://github.com/user-attachments/assets/4fd48226-dec1-4d06-930d-7d1aa32de100" />)
 
 ## 📌 Project Overview
 As a current Starbucks Shift Supervisor, I frequently observed a major operational bottleneck: during peak hours, single customers would occupy large group tables for hours, leaving no space for actual groups and causing potential walk-outs. 
