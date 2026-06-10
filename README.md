@@ -46,7 +46,7 @@ Based on the data visualized in the **Starbucks Space Efficiency Dashboard**:
 * **The High-Value Segments:** "Teenagers" and "Families" generate the highest **Revenue Per Minute ($0.76 and $0.70/min respectively)** with shorter stays, making them highly profitable segments.
 * **Spatial Mismatch:** Single customers (Average Group Size of 1.22 to 1.29) heavily occupy **Window Seats** and **Tables with 2 Chairs** for up to 90 minutes. This leaves larger parties unable to find seating, causing a massive mismatch between table capacity and group sizes.
 
-## 🚀 Proposed Layout & Operational Solutions
+## ✅ Proposed Layout & Operational Solutions
 
 ### 1. Spatial Zoning Strategy
 * **Dedicated "Study & Work Zone":** 
