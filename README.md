@@ -38,10 +38,9 @@ The raw data logged in Excel was imported into a database. I then used SQL queri
 
 * 📁 **Complete Source Code:** ![SQL Scripts](https://github.com/Heejoy/starbucks_space_efficiency_analysis/blob/main/SQL/starbucks_data.sql)
 
-* ![Starbucks Space Efficiency Dashboard](https://github.com/user-attachments/assets/4fd48226-dec1-4d06-930d-7d1aa32de100)
-
 ## 💡 Key Dashboard Insights & Findings
 Based on the data visualized in the **Starbucks Space Efficiency Dashboard**:
+* ![Starbucks Space Efficiency Dashboard](https://github.com/user-attachments/assets/4fd48226-dec1-4d06-930d-7d1aa32de100)
 * **The Low-RPM Bottleneck:** "University Students" and "Adults" primarily use the store for **Laptop** activities. While their **Average Stay Duration is extremely high (avg. 76.54 - 124.42 mins)**, their **Revenue per Minute is extremely low ($0.05 - $0.12/min)** because they mostly purchase a single item.
 * **The High-Value Segments:** "Teenagers" and "Families" generate the highest **Revenue Per Minute ($0.76 and $0.70/min respectively)** with shorter stays, making them highly profitable segments.
 * **Spatial Mismatch:** Single customers (Average Group Size of 1.22 to 1.29) heavily occupy **Window Seats** and **Tables with 2 Chairs** for up to 90 minutes. This leaves larger parties unable to find seating, causing a massive mismatch between table capacity and group sizes.
